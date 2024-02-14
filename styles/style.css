@@ -1,0 +1,82 @@
+/* SEMANTICS */
+header h1 {
+    /* FONT STUFF */
+    font-size:xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bolder;
+
+    /* WHITESPACE */
+    margin: 1% 0;
+    padding:2%;
+
+    /* DISPLAY */
+    display:inline-block;
+}
+
+nav {
+    /* DISPLAY */
+    display:inline-block;
+    white-space:nowrap;
+}
+
+nav li {
+    /* FONT STUFF */
+    font-size:larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /* WHITESPACE */
+    margin:5% 5%;
+
+    /* DISPLAY */
+    display:inline-block;
+}
+
+
+/* HEADINGS */
+h2 {
+    /* FONT STUFF */
+    font-size:x-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+
+    margin:2% 0;
+}
+
+h3 {
+    /* FONT STUFF */
+    font-size: larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    margin:2% 0;
+}
+
+/* CONTENT TEXT */
+p, th, td {
+    /* FONT STUFF */
+    font-size:larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:lighter;
+
+    /* WHITESPACE */
+    line-height:1.2;
+}
+
+/* TABLES */
+
+
+/* STYLING TAGS */
+em {
+    font-weight:bold;
+    font-style:italic;
+}
+
+a {
+    /* FONT STUFF */
+    text-decoration: none;
+    color: black;
+}
+
+/* MISCELLANEA */
+.container {
+    margin:2% 0;
+}
