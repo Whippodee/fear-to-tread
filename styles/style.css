@@ -62,7 +62,9 @@ p, th, td {
 }
 
 /* TABLES */
-
+table {
+    width:100%;
+}
 
 /* STYLING TAGS */
 em {
