@@ -44,7 +44,7 @@ h2 {
 
 h3 {
     /* FONT STUFF */
-    font-size: larger;
+    font-size:larger;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
     margin:2% 0;
@@ -67,6 +67,14 @@ table {
 }
 
 /* STYLING TAGS */
+strong {
+    font-weight:bold;
+}
+
+i {
+    font-style:italic;
+}
+
 em {
     font-weight:bold;
     font-style:italic;
